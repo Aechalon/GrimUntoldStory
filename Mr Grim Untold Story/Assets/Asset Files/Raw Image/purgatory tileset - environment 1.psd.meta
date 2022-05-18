@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 3d75ceba7e18bcf42999895396df064e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7750805687267546770
+    second: purgatory tileset - environment_0
+  - first:
+      213: 8731452272929682872
+    second: purgatory tileset - environment_1
+  - first:
+      213: -78552854223183386
+    second: purgatory tileset - environment_2
+  - first:
+      213: -6563881390060270954
+    second: purgatory tileset - environment_3
+  - first:
+      213: 6662459967843021193
+    second: purgatory tileset - environment_4
+  - first:
+      213: -2493874978073195376
+    second: purgatory tileset - environment_5
+  - first:
+      213: -4209824906071835102
+    second: purgatory tileset - environment_6
+  - first:
+      213: 3921735353042530982
+    second: purgatory tileset - environment_7
+  - first:
+      213: -4287594503068321721
+    second: purgatory tileset - environment_8
+  - first:
+      213: 2464219411136567723
+    second: purgatory tileset - environment_9
+  - first:
+      213: -2799184805357686840
+    second: purgatory tileset - environment_10
+  - first:
+      213: -109311663446569676
+    second: purgatory tileset - environment_11
+  - first:
+      213: -5134560472295156925
+    second: purgatory tileset - environment_12
+  - first:
+      213: -902845113599174265
+    second: purgatory tileset - environment_13
+  - first:
+      213: -4660235768127654035
+    second: purgatory tileset - environment_14
+  - first:
+      213: -364239313946626496
+    second: purgatory tileset - environment_15
+  - first:
+      213: -884235726201755941
+    second: purgatory tileset - environment_16
+  - first:
+      213: 382401775893900704
+    second: purgatory tileset - environment_17
+  - first:
+      213: 725740053735236182
+    second: purgatory tileset - environment_18
+  - first:
+      213: -6006895052791909092
+    second: purgatory tileset - environment_19
+  - first:
+      213: -6989794151503985120
+    second: purgatory tileset - environment_20
+  - first:
+      213: 5370274446454506765
+    second: purgatory tileset - environment_21
+  - first:
+      213: -528783617469667347
+    second: purgatory tileset - environment_22
+  - first:
+      213: -1574497472781645311
+    second: purgatory tileset - environment_23
+  - first:
+      213: -6651305266322071672
+    second: purgatory tileset - environment_24
+  - first:
+      213: -7998573137273346875
+    second: purgatory tileset - environment_25
+  - first:
+      213: -3692605104163577490
+    second: purgatory tileset - environment_26
+  - first:
+      213: 3295854982979471434
+    second: purgatory tileset - environment_27
+  - first:
+      213: -4069584927306727250
+    second: purgatory tileset - environment_28
+  - first:
+      213: -8141671136211611957
+    second: purgatory tileset - environment_29
+  - first:
+      213: -9088968864906180895
+    second: purgatory tileset - environment_30
+  - first:
+      213: 2570493564471205559
+    second: purgatory tileset - environment_31
+  - first:
+      213: 6741560564220959280
+    second: purgatory tileset - environment_32
+  - first:
+      213: 5803922475696667988
+    second: purgatory tileset - environment_33
+  - first:
+      213: 6063440468160597056
+    second: purgatory tileset - environment_34
+  - first:
+      213: 5622830559508454898
+    second: purgatory tileset - environment_35
+  - first:
+      213: -512320405016397180
+    second: purgatory tileset - environment_36
+  - first:
+      213: -5463032002880559093
+    second: purgatory tileset - environment_37
+  - first:
+      213: -6868754559915755875
+    second: purgatory tileset - environment_38
+  - first:
+      213: 455996492219386633
+    second: purgatory tileset - environment_39
+  - first:
+      213: 8350052680095912259
+    second: purgatory tileset - environment_40
+  - first:
+      213: -116042566056270343
+    second: purgatory tileset - environment_41
+  - first:
+      213: -933449741775344370
+    second: purgatory tileset - environment_42
+  - first:
+      213: 1610943461211002630
+    second: purgatory tileset - environment_43
+  - first:
+      213: -7430682740314361347
+    second: purgatory tileset - environment_44
+  - first:
+      213: -7099105722244705822
+    second: purgatory tileset - environment_45
+  - first:
+      213: -3095208630783906145
+    second: purgatory tileset - environment_46
+  - first:
+      213: 1452666314188411782
+    second: purgatory tileset - environment_47
+  - first:
+      213: 1067665563472955293
+    second: purgatory tileset - environment_48
+  - first:
+      213: -6382753320166367979
+    second: purgatory tileset - environment_49
+  - first:
+      213: 6503024204131409703
+    second: purgatory tileset - environment_50
+  - first:
+      213: 3933461795735162641
+    second: purgatory tileset - environment_51
+  - first:
+      213: 7921099838225305339
+    second: purgatory tileset - environment_52
+  - first:
+      213: -3998944923968684996
+    second: purgatory tileset - environment_53
+  - first:
+      213: 6281373669181286412
+    second: purgatory tileset - environment_54
+  - first:
+      213: 8849417754751054041
+    second: purgatory tileset - environment_55
+  - first:
+      213: -7656494051340619955
+    second: purgatory tileset - environment 1_0
+  - first:
+      213: 6574546883104929792
+    second: purgatory tileset - environment 1_1
+  - first:
+      213: 4271061765806693081
+    second: purgatory tileset - environment 1_2
+  - first:
+      213: 2040732257017977123
+    second: purgatory tileset - environment 1_3
+  - first:
+      213: -4719820811068151304
+    second: purgatory tileset - environment 1_4
+  - first:
+      213: 2593765050907147758
+    second: purgatory tileset - environment 1_5
+  - first:
+      213: 198329763861958064
+    second: purgatory tileset - environment 1_6
+  - first:
+      213: -7614857998436852525
+    second: purgatory tileset - environment 1_7
+  - first:
+      213: 9201978417153758890
+    second: purgatory tileset - environment 1_8
+  - first:
+      213: 3707978881379273819
+    second: purgatory tileset - environment 1_9
+  - first:
+      213: 2045096591592737494
+    second: purgatory tileset - environment 1_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_0
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 150
+        width: 180
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fe1b1ecf53234cb3d30ef9221c679
+      internalID: -7656494051340619955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 344
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769ef464e4af4af40a03bc1f8812ca77
+      internalID: 6574546883104929792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 332
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42641594e73d51499546d98a084739d
+      internalID: 4271061765806693081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0772e757f59794e9e96755e727f9e2
+      internalID: 2040732257017977123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 45
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31253ae5fd0e7b944a8b2e964231e042
+      internalID: -4719820811068151304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 144
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5433bc4bf20359147b5a5246ece0e876
+      internalID: 2593765050907147758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 149
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0d6d88443087947863bd8e6bdf6645
+      internalID: 198329763861958064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 153
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ced7bf2ef1054488bfcac1068c6a1
+      internalID: -7614857998436852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 141
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05154e35416aba4b8e67a78464a144b
+      internalID: 9201978417153758890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f62d0eb73aa874b8d4048c2f8d8275
+      internalID: 3707978881379273819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgatory tileset - environment 1_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 98
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102c169bda64df4f9e25c0c0f95c037
+      internalID: 2045096591592737494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
